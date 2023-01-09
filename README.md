@@ -1,4 +1,4 @@
 # Raycasting in Python
 
 
-![Image](github.com/KrzysztofCzapla/Raycasting-Program/blob/main/screen.png)
+![Image](https://github.com/KrzysztofCzapla/Raycasting-Program/blob/main/screen.png)
